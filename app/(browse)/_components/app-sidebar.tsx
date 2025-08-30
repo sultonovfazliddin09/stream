@@ -14,6 +14,7 @@ export function AppSidebar() {
         <Navigation />
         <SidebarSeparator />
         <Following />
+        <SidebarSeparator />
         <Recommended />
       </SidebarContent>
     </Sidebar>
